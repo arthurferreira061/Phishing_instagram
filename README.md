@@ -1,1 +1,2 @@
-# Phishing_instagram
+# instagram-phishing-page
+instagram-phishing-page
